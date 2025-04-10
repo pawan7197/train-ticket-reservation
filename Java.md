@@ -79,5 +79,6 @@ cd ~/tomcat9/bin
 ```bash
 curl ifconfig.me
 ```
-📌 Final Notes
+Here we can see the project live
+
 - Project is live on AWS EC2 with Tomcat
