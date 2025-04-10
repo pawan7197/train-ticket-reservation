@@ -67,7 +67,8 @@ cd ~/tomcat9/bin
 
 9. Now open the Project in Browser
 - Visit: http://your-ec2-ip:8080/TrainBook-1.0.0-SNAPSHOT
-🔓 Allow Port 8080 (Only if site doesn’t open)
+
+ Allow Port 8080 (Only if site doesn’t open)
 - Go to AWS console → EC2 → Security Groups
 - Edit Inbound Rules
 - Add new rule:
@@ -75,7 +76,7 @@ cd ~/tomcat9/bin
   - Port: 8080
   - Source: 0.0.0.0/0
 - Click Save
-💡 Find Your EC2 Public IP
+Find Your EC2 Public IP
 ```bash
 curl ifconfig.me
 ```
