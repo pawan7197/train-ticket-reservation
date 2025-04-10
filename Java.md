@@ -81,5 +81,6 @@ Find Your EC2 Public IP
 curl ifconfig.me
 ```
 Here we can see the project live
+![Image](https://github.com/user-attachments/assets/1c151161-25a8-40d3-896e-16e80eede640)
 
 - Project is live on AWS EC2 with Tomcat
